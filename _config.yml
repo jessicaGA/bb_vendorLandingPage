@@ -2,7 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://jessicaga.github.io
+baseurl: /bb_vendorLandingPage/
 title: Black Bride Vendors
 email: info@blackbride.com
 author: Jessica Skeete
