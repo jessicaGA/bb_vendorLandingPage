@@ -1,0 +1,8 @@
+---
+layout: default
+img: cake.png
+category: Services
+title: Stand Out From The Crowd!
+description: |
+---
+Customizable creative profiles to engage reader. In addition to an exclusive vendor listing among a limited number of vendors in your category and area.
