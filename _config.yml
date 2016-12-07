@@ -1,6 +1,8 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
+baseurl: ''
+domain: 'http://bridalsuite.blackbride.com'
 
 title: Black Bride Vendors
 email: info@blackbride.com
