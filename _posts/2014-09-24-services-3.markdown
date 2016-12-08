@@ -1,8 +1,0 @@
----
-layout: default
-img: brideFlowers.jpg
-category: Services
-title: Tell Your Story
-description: |
----
-We’re designing a smooth communication process with our vendors connecting you with our audience through our new CRM tool. 

@@ -1,8 +1,0 @@
----
-layout: default
-img: rusticBride.jpg
-category: Features
-title: Target Your Audience
-description: |
----
-Your membership will provide exclusive access to a market of chic and sophisticated brides that you may not have otherwise have the opportunity to interact with. Our demographic includes women age 23-35, post-graduate professionals with an income of $75K+.
